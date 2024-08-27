@@ -1,0 +1,1000 @@
+Id,Description,Correct Frame,,,Gifs Completed,,,Frequency
+1,woman falls down,19,,,1,1,TRUE,2
+2,woman falls down,9,,,2,2,TRUE,1
+3,guy falls down onto couch,28,,,3,3,TRUE,2
+4,person falls down,14,,,4,4,TRUE,1
+5,guy falls down,10,,,5,5,TRUE,1
+6,guy falls onto ground,29,,,6,6,TRUE,1
+7,a small kid falls down,22,,,7,7,TRUE,2
+8,a dog catching a frisbee in mouth,67,,,8,8,TRUE,4
+8,a dog catch frisbee in mouth,67,,,9,9,TRUE,4
+8,a dog with frisbee in mouth,67,,,10,10,TRUE,4
+8,a dog catching a frisbee in its mouth,67,,,11,11,TRUE,4
+11,guy throws tennis racket,35,,,12,12,TRUE,4
+11,guy throws tennis racquet,35,,,13,13,TRUE,2
+11,guy throwing tennis racquet,35,,,14,14,TRUE,3
+11,guy throwing tennis racket,35,,,15,15,TRUE,2
+12,guy hitting tennis ball with racket,10,,,16,16,TRUE,3
+12,guy hits tennis ball with racket,10,,,17,17,TRUE,5
+12,tennis racket hits ball,10,,,18,18,TRUE,7
+12,guy hits ball with tennis racket,10,,,19,19,TRUE,4
+13,guy falls down,10,,,20,20,TRUE,3
+14,tennis ball hits racket,20,,,21,21,TRUE,4
+14,tennis ball hits guy's racket,20,,,22,22,TRUE,5
+14,tennis ball hitting guy's racket,20,,,23,23,TRUE,2
+15,tennis ball hitting face,4,,,24,24,TRUE,4
+13,man fall onto ground,11,,,25,25,TRUE,2
+15,tennis ball hits face,4,,,26,26,TRUE,2
+16,tennis ball hits racket,13,,,27,27,TRUE,2
+7,small kid falls down,22,,,28,28,TRUE,2
+1,a woman falls down,19,,,29,29,TRUE,2
+16,tennis ball hitting racket,13,,,30,30,TRUE,2
+16,tennis ball bounces off racket,13,,,31,31,TRUE,1
+3,guy face-plants into couch,28,,,32,32,TRUE,1
+17,guy hitting tennis ball with racket,38,,,33,33,TRUE,1
+17,guy hits tennis ball with racket,38,,,34,34,TRUE,2
+17,guy hits tennis ball with racket,38,,,35,35,TRUE,1
+17,guy hits tennis ball with racquet,38,,,36,36,TRUE,4
+17,tennis racket hits ball,38,,,37,37,TRUE,2
+18,a dog catching a frisbee in air,13,,,38,38,TRUE,2
+18,a dog catching a carrot in air,13,,,39,39,TRUE,4
+18,a dog catching frisbee in air,13,,,40,40,TRUE,1
+18,dog catching frisbee in air,13,,,41,41,TRUE,2
+18,dog catching a carrot in air,13,,,42,42,TRUE,4
+18,dog catching a carrot midair,13,,,43,43,TRUE,2
+18,a dog catching frisbee midair,13,,,44,44,TRUE,2
+19,tennis racket hitting ball,46,,,45,45,TRUE,4
+19,guy hits tennis ball with racket,46,,,46,46,TRUE,2
+19,tennis ball gets hit by racket,46,,,47,47,TRUE,2
+19,tennis ball impacts with racket,46,,,48,48,TRUE,2
+20,dog with frisbeee in mouth midair,1,,,49,49,TRUE,3
+20,dog catching frisbee midair,2,,,50,50,TRUE,1
+20,a dog catching a frisbee in midair,2,,,51,51,TRUE,3
+21,fish eating fish,8,,,52,52,TRUE,2
+21,a fish eating another fish,8,,,53,53,TRUE,4
+21,fish gets eaten by another fish,8,,,54,54,TRUE,2
+21,fish eats another fish,8,,,55,55,TRUE,7
+22,baseball bat hitting ball,40,,,56,56,TRUE,2
+22,baseball hits baseball bat,40,,,57,57,TRUE,3
+22,baseball hits stick,40,,,58,58,TRUE,4
+22,baseball impacts bat,40,,,59,59,TRUE,2
+22,baseball hitting baseball bat,40,,,60,60,TRUE,2
+25,a squirrel shaking its ears,28,,,61,61,TRUE,2
+25,a squirrel shaking ears,26,,,62,62,TRUE,1
+35,a cat peeking out of a toilet,0,,,63,63,TRUE,2
+26,dog jumping,6,,,64,64,TRUE,2
+26,dog in the air,6,,,65,65,TRUE,3
+27,fox jumping,12,,,66,66,TRUE,6
+27,fox in the air,12,,,67,67,TRUE,3
+28,cat flying,26,,,68,68,TRUE,3
+28,cat jumping,26,,,69,69,TRUE,6
+29,cat jumps on top of dog,15,,,70,70,TRUE,3
+29,a cat on top of a dog,15,,,71,71,TRUE,3
+30,a panda jumps onto another panda,9,,,72,72,TRUE,5
+38,a cat biting corn,13,,,73,73,TRUE,5
+38,a cat biting into corn,13,,,74,74,TRUE,4
+30,panda hits panda,9,,,75,75,TRUE,5
+39,a cat jumping,16,,,76,76,TRUE,5
+39,a cat jumping across,16,,,77,77,TRUE,5
+31,goat jumping,6,,,78,78,TRUE,6
+39,a cat jumping in air,16,,,79,79,TRUE,3
+39,a cat jumps in air,16,,,80,80,TRUE,6
+9,a dog catching a frisbee in air,19,,,81,81,TRUE,6
+23,small kid falls on top of small kid,51,,,82,82,TRUE,5
+9,a dog catching a frisbee in midair,19,,,83,83,TRUE,6
+9,a dog catching a frisbee midair,19,,,84,84,TRUE,5
+9,dog catching frisbee in air,19,,,85,85,TRUE,7
+10,a dog catching a frisbee in midair,40,,,86,86,TRUE,2
+10,a dog catching a frisbee midair,40,,,87,87,TRUE,3
+10,dog catching frisbee in air,40,,,Id,,,1
+10,a dog with frisbee in mouth,40,,,,,,0
+24,a dog catching a frisbee in air,89,,,,,,0
+23,small kid knocks over small kid on ground,51,,,,,,0
+24,a dog catching a frisbee midair,89,,,,,,0
+24,dog catching frisbee in air,89,,,,,,0
+24,a dog with frisbee in mouth,89,,,,,,0
+33,a rabbit hops,3,,,,,,0
+32,cat jumps,3,,,,,,0
+34,a duck lands,12,,,,,,0
+34,a duck lands on ground,12,,,,,,0
+36,a horse jumping over a hurdle,16,,,,,,0
+37,goat kicks black goat,13,,,,,,0
+36,a horse jumping across a hurdle,16,,,,,,0
+36,a horse jumping across a hurdle,16,,,,,,0
+36,a horse jumping over a hurdle in midair,16,,,,,,0
+37,black goat falls over,16,,,,,,0
+63,guy jumping over buildings,52,,,,,,0
+63,guy jumping across buildings,52,,,,,,0
+40,dog jumps through hoop,19,,,,,,0
+42,goat jumps,14,,,,,,0
+42,goat jumps through air,14,,,,,,0
+41,red ball hits kid,61,,,,,,0
+42,goat jumping in air,14,,,,,,0
+42,goat jumps in midair,14,,,,,,0
+41,kid gets hit in the face with ball,61,,,,,,0
+43,dog jumping through hoop,2,,,,,,0
+43,dog jumps through hoop,2,,,,,,0
+45,cat jumps,12,,,,,,0
+44,dog jumps through hoop,19,,,,,,0
+44,dog jumping,19,,,,,,0
+46,dolphin jumping,3,,,,,,0
+46,dolphin jumps through hoop,3,,,,,,0
+45,cat jumping in air,12,,,,,,0
+45,cat jumps in air,12,,,,,,0
+45,cat jumping,12,,,,,,0
+48,horse jumps,10,,,,,,0
+47,dog catches frisbee in mouth,20,,,,,,0
+47,dog jumping with frisbee midair,20,,,,,,0
+48,horse jumping,10,,,,,,0
+49,guy jumps backward,40,,,,,,0
+49,guy jumps through hoop,40,,,,,,0
+49,man jumping,40,,,,,,0
+50,pig jumps through hoop,5,,,,,,0
+51,horse jumps over hurdle,15,,,,,,0
+52,horse jumps over hurdle,4,,,,,,0
+51,horse jumping over hurdle,15,,,,,,0
+52,horse jumps,4,,,,,,0
+51,horse jumping in air,11,,,,,,0
+53,horse jumps over hurdle,18,,,,,,0
+53,horse jumping over hurdle,26,,,,,,0
+54,horse jumping over hurdle,11,,,,,,0
+53,horse jumping across hurdle,26,,,,,,0
+54,horse jumps,11,,,,,,0
+53,a horse jumping across hurdle,26,,,,,,0
+55,a horse jumping over a hurdle,6,,,,,,0
+56,guy does thumbs up,25,,,,,,0
+56,kid thumbs up,25,,,,,,0
+55,a horse jumping over hurdle,6,,,,,,0
+55,horse jumping over a hurdle,6,,,,,,0
+55,a horse jumping over the hurdle,6,,,,,,0
+55,horse jumping across the hurdle,6,,,,,,0
+55,a horse jumps,6,,,,,,0
+55,horse jumping over a hurdle,6,,,,,,0
+57,horse jumps over hurdle,11,,,,,,0
+58,guy landing in dirt,27,,,,,,0
+57,a horse jumping,11,,,,,,0
+57,horse jumps,11,,,,,,0
+59,glass shatters,5,,,,,,0
+59,glass breaks,5,,,,,,0
+58,guy lands on ground,26,,,,,,0
+58,guy lands in dirt,27,,,,,,0
+58,face-plant in dirt,27,,,,,,0
+60,guy claps,0,,,,,,0
+60,man's hands touch each other physically,0,,,,,,0
+61,glass shattering,40,,,,,,0
+61,glass shatters,40,,,,,,0
+62,glass shattering,14,,,,,,0
+64,guy showing thumbs-up,6,,,,,,0
+64,guy doing thumbs-up,6,,,,,,0
+65,baseball hits bat,3,,,,,,0
+65,guy hits baseball with bat,3,,,,,,0
+65,bat touches baseball,3,,,,,,0
+67,baseball hits bat,38,,,,,,0
+67,guy hits baseball with bat,38,,,,,,0
+67,bat touches baseball,38,,,,,,0
+66,guy kicks soccer ball with foot,7,,,,,,0
+66,guy kicking soccer ball,7,,,,,,0
+66,guy kicking soccer ball using foot,7,,,,,,0
+66,dude kicks soccer ball,7,,,,,,0
+66,guy boots soccer ball,7,,,,,,0
+66,dude kicking soccer ball,7,,,,,,0
+68,baseball hits bat,33,,,,,,0
+68,guy hits baseball with bat,33,,,,,,0
+68,bat touches baseball,33,,,,,,0
+70,baseball hits bat,52,,,,,,0
+70,guy hits baseball with bat,52,,,,,,0
+70,bat touches baseball,52,,,,,,0
+71,baseball hits bat,33,,,,,,0
+71,guy hits baseball with bat,33,,,,,,0
+71,bat touches baseball,33,,,,,,0
+69,guy hitting baseball with bat,45,,,,,,0
+69,baseball hits bat,45,,,,,,0
+69,baseball impacts baseball bat,45,,,,,,0
+69,guy hits baseball with bat,45,,,,,,0
+69,baseball hitting bat,45,,,,,,0
+72,guy hitting baseball with baseball bat,17,,,,,,0
+72,dude hits baseball with bat,17,,,,,,0
+72,baseball impacts baseball bat,17,,,,,,0
+72,guy hits baseball with bat,17,,,,,,0
+72,baseball hitting baseball bat,17,,,,,,0
+69,dude hits baseball using bat,45,,,,,,0
+74,basketball hits face,32,,,,,,0
+74,basketball hits guy,32,,,,,,0
+74,basketball hits guy's face,32,,,,,,0
+74,basketball hitting dude's face,32,,,,,,0
+73,guy hitting baseball with baseball bat,15,,,,,,0
+73,dude hits baseball with bat,15,,,,,,0
+73,baseball impacts baseball bat,15,,,,,,0
+73,guy hits baseball with bat,15,,,,,,0
+73,baseball hitting baseball bat,15,,,,,,0
+75,guy hitting baseball with baseball bat,20,,,,,,0
+75,dude hits baseball with bat,20,,,,,,0
+75,baseball impacts baseball bat,20,,,,,,0
+75,guy hits baseball with bat,20,,,,,,0
+75,baseball hitting baseball bat,20,,,,,,0
+76,guy hitting baseball with baseball bat,6,,,,,,0
+76,dude hits baseball with bat,6,,,,,,0
+76,baseball impacts baseball bat,6,,,,,,0
+76,guy hits baseball with bat,6,,,,,,0
+76,baseball hitting baseball bat,6,,,,,,0
+77,guy hitting baseball with baseball bat,7,,,,,,0
+77,dude hits baseball with bat,7,,,,,,0
+77,baseball impacts baseball bat,7,,,,,,0
+77,guy hits baseball with bat,7,,,,,,0
+77,baseball hitting baseball bat,7,,,,,,0
+79,ball hits guy's head,2,,,,,,0
+79,guy is hit by basketball,2,,,,,,0
+79,basketball bounces off side of head,2,,,,,,0
+78,guy hitting baseball with baseball bat,26,,,,,,0
+78,dude hits baseball with bat,26,,,,,,0
+78,baseball impacts baseball bat,26,,,,,,0
+78,guy hits baseball with bat,26,,,,,,0
+78,baseball hitting baseball bat,26,,,,,,0
+78,guy hitting baseball with bat,26,,,,,,0
+80,guy hitting baseball with baseball bat,34,,,,,,0
+80,dude hits baseball with bat,34,,,,,,0
+80,baseball impacts baseball bat,34,,,,,,0
+80,guy hits baseball with bat,34,,,,,,0
+80,baseball hitting baseball bat,34,,,,,,0
+80,guy hitting baseball with bat,34,,,,,,0
+82,guy hitting baseball with baseball bat,22,,,,,,0
+82,dude hits baseball with bat,22,,,,,,0
+82,baseball impacts baseball bat,22,,,,,,0
+82,guy hits baseball with bat,22,,,,,,0
+82,baseball hitting baseball bat,22,,,,,,0
+81,guy hitting baseball with baseball bat,62,,,,,,0
+81,dude hits baseball with bat,62,,,,,,0
+81,baseball impacts baseball bat,62,,,,,,0
+81,guy hits baseball with bat,62,,,,,,0
+81,baseball hitting baseball bat,62,,,,,,0
+81,guy hitting baseball with bat,62,,,,,,0
+83,soccer ball hits guy in face,21,,,,,,0
+83,soccer ball hits guy's face,21,,,,,,0
+83,soccer ball hitting face,21,,,,,,0
+83,soccer ball hitting dude's face,21,,,,,,0
+83,soccer ball hitting dude in face,21,,,,,,0
+83,soccer ball impacting face,21,,,,,,0
+84,guy hitting baseball with baseball bat,20,,,,,,0
+84,dude hits baseball with bat,20,,,,,,0
+84,baseball impacts baseball bat,20,,,,,,0
+84,guy hits baseball with bat,20,,,,,,0
+84,baseball hitting baseball bat,20,,,,,,0
+85,guy hitting baseball with baseball bat,42,,,,,,0
+85,dude hits baseball with bat,42,,,,,,0
+85,baseball impacts baseball bat,42,,,,,,0
+85,guy hits baseball with bat,42,,,,,,0
+85,baseball hitting baseball bat,42,,,,,,0
+85,guy hitting baseball with bat,42,,,,,,0
+85,baseball impacting baseball bat,42,,,,,,0
+86,ball hits face,4,,,,,,0
+86,ball hitting face,4,,,,,,0
+87,ball hits guy's head,2,,,,,,0
+87,guy is hit by basketball,2,,,,,,0
+87,basketball bounces off side of head,2,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
+,,,,,,,,0
