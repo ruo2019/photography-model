@@ -3,7 +3,7 @@ from iv2_utils.iv2 import pickle_read
 import pandas as pd
 import os
 
-pred_mapping = {'a': 'augment', 'r': 'regular', 'g': 'gif87'}
+pred_mapping = {'a': 'augment', 'r': 'regular', 'g': 'gif87', 's': 'stock100'}
 averaged = 100
 
 def generate_settings(file_path):
@@ -67,5 +67,9 @@ def load_data():
 
     data.k600 = data_k600
     data.gif87 = pickle_read('rustyjar/GIF87.pkl')
+
+    data.stock100 = []
+    for video, phrase, frames in pickle_read('rustyjar/STOCK100.pkl'):
+        data.stock100.append((int(video.split('/')[-1].split('.')[0]), frames))
 
     return data
