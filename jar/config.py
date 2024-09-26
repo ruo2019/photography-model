@@ -68,8 +68,8 @@ def load_data():
     data.k600 = data_k600
     data.gif87 = pickle_read('rustyjar/GIF87.pkl')
 
-    data.stock100 = []
-    for video, phrase, frames in pickle_read('rustyjar/STOCK100.pkl'):
-        data.stock100.append((int(video.split('/')[-1].split('.')[0]), frames))
+    data.stock100 = pickle_read('rustyjar/STOCK100-testing.pkl')
+    # for video, phrase, frames in pickle_read('rustyjar/STOCK100.pkl'):
+    #     data.stock100.append((int(video.split('/')[-1].split('.')[0]), frames))
 
     return data
