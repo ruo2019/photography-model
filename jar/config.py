@@ -3,7 +3,7 @@ from iv2_utils.iv2 import pickle_read
 import pandas as pd
 import os
 
-pred_mapping = {'a': 'augment', 'r': 'regular', 'g': 'gif87', 's': 'stock100'}
+pred_mapping = {'a': 'augment', 'r': 'regular', 't': 'act75'}
 averaged = 100
 
 def generate_settings(file_path):
@@ -19,6 +19,19 @@ def generate_settings(file_path):
     window_size = int(file_path[1:])
 
     return edict({'subfolder': pred_mapping[indicator], 'windowsize': window_size})
+
+def generate_settings_logits(file_path):
+    if '/' in file_path:
+        file_path = file_path.split('/')[-1]
+
+    if '.pkl' not in file_path:
+        print(file_path)
+    assert('.pkl' in file_path)
+    file_path = file_path.split('.pkl')[0]
+
+    indicator = file_path[0]
+
+    return edict({'subfolder': pred_mapping[indicator]})
 
 class Accessor:
     def __init__(self):
@@ -39,7 +52,7 @@ class Accessor:
         try:
             return self.access[category][str(window_size)]
         except:
-            print("Doesn't exist, try again.")
+            raise NotImplementedError("Doesn't exist, try again.")
             return -1
 
     def __str__(self) -> str:
@@ -47,6 +60,23 @@ class Accessor:
 
     def __call__(self, category, window_size):
         return self.get(category, window_size)
+
+class LogitData:
+    def __init__(self):
+        self.access = edict()
+
+    def add(self, category, logits):
+        self.access[category] = logits
+
+    def get(self, category):
+        try:
+            return self.access[category]
+        except:
+            raise NotImplementedError("Doesn't exist, try again.")
+            return -1
+
+    def __call__(self, category):
+        return self.get(category)
 
 def load_data():
     models = list(filter(lambda x: x not in ['config.py', '.DS_Store', '__init__.py', '__pycache__'], os.listdir('jar')))
@@ -66,10 +96,28 @@ def load_data():
         data_k600.append((row['ID'], eval('[' + row['Frame(s)'] + ']')))
 
     data.k600 = data_k600
-    data.gif87 = pickle_read('rustyjar/GIF87.pkl')
+    # data.gif87 = pickle_read('rustyjar/GIF87.pkl')
 
-    data.stock100 = pickle_read('rustyjar/STOCK100-testing.pkl')
-    # for video, phrase, frames in pickle_read('rustyjar/STOCK100.pkl'):
-    #     data.stock100.append((int(video.split('/')[-1].split('.')[0]), frames))
+    # data.stock100 = pickle_read('rustyjar/STOCK100-testing.pkl')
+    data.act75 = []
+    for video, phrase, frames in pickle_read('rustyjar/ACT75.pkl'):
+        data.act75.append((int(video.split('/')[-1].split('.')[0]), frames))
 
     return data
+
+def load_logits():
+    models = [name for name in os.listdir('rustyjar') if os.path.isdir(os.path.join('rustyjar', name))]
+
+    logits = edict()
+
+    for model in models:
+        print(model)
+        logits[model] = LogitData()
+        for file in os.listdir(os.path.join('rustyjar', model)):
+            if file == '.DS_Store': continue
+            settings = generate_settings_logits(file)
+            read_data = pickle_read(os.path.join('rustyjar', model, file))
+
+            logits[model].add(settings.subfolder, read_data)
+
+    return logits
