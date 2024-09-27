@@ -1,6 +1,8 @@
 from easydict import EasyDict as edict
-from iv2_utils.iv2 import pickle_read
+from iv2_utils.iv2 import *
 import pandas as pd
+import numpy as np
+import copy
 import os
 
 pred_mapping = {'a': 'augment', 'r': 'regular', 't': 'act75'}
@@ -121,3 +123,28 @@ def load_logits():
             logits[model].add(settings.subfolder, read_data)
 
     return logits
+
+# split is 'r', 'a', etc.
+# model name is 'ViCLIP', 'B14', etc.
+# logits_list is a list of logits
+def synthesize_logits(model_name, split, logits_list, window_size = 8):
+    result = []
+    for logits in logits_list:
+        logits_c = copy.deepcopy(logits)
+        logits_c.sort(key = lambda x: x[1])
+        new_logits = []
+        add = (window_size -8) // 2
+        for j in range(add, len(logits_c) - add):
+            a_range = list(range(j - add, j + add + 1))
+            a_range = [logits_c[x][0] for x in a_range]
+            new_logits.append((np.mean(a_range).item(), j + 1))
+
+        new_logits.sort(key = lambda x: -x[0])
+        if len(new_logits) == 0:
+            new_logits.append((0, 4))
+        result.append(new_logits[0][1])
+
+    output_path = os.path.join('jar', model_name, f'{split}{window_size}.pkl')
+    pickle_write(result, output_path)
+    print("Wrote output to", output_path)
+    return result
